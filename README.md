@@ -9,4 +9,4 @@ Having been inspired by several documents/posts on the importance of a Manager�
 This document will always be a work in progress and it’s meant to be documentation on me.
 
 # Hi, I'm Figaro 
-I was born in São Paulo, Brazil, where I live until today. Father of a [lovely princess](img/alice.PNG) (this picture should be outdated by now, you know how they grow fast, right?) and a [indefatigable purebred mutt](img/maia.PNG). I'm a lucky guy because I married a flight attendant which gives me the opportunity not just to be with a amazing woman as to [travel A LOT](https://www.mytravelmap.xyz/u/gg112445688203607613260), something I really enjoy doing.
+I was born in São Paulo, Brazil, where I live until today. Father of a [lovely princess](img/alice.PNG) (this picture should be outdated by now, you know how they grow fast, right?) and a [indefatigable purebred mutt](img/maia.PNG). I'm a lucky guy because I married a flight attendant which gives me the opportunity not just to be with an amazing woman as to [travel A LOT](https://www.mytravelmap.xyz/u/gg112445688203607613260), something I really enjoy doing.
