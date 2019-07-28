@@ -5,7 +5,7 @@
 This document **MUST** not be read in any way that applies to any other group, division or team. You might find that my beliefs and style might not be completely aligned and sometimes even incompatible with what you find throughout the business and that’s OK! This is a document on me and it applies to me only.
 
 # Motivations behind this document
-*<tl;dr>**Time Saving**</tl;dr>x*
+*<tl;dr>**Time Saving**</tl;dr>*
 
 We all want to change the world but time is finited - specially at a startup. So why to spend time asking yourself if you should whether or not answer me a FYI email if we can save time and go straight to the big questions?
 
