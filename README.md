@@ -13,7 +13,7 @@ Focusing to improve that and having been inspired by several documents/posts on 
 
 # Hi, I'm Figaro 
 
-I'm from São Paulo. Father of a [lovely princess](img/alice.png) (this picture should be outdated by now, you know how they grow fast, right?) and a [indefatigable purebred mutt](img/maia.png) (yeah, I'm a dog person). I'm a lucky guy because I married a flight attendant which gives me the opportunity not just to be with an amazing woman as to [travel A LOT](https://www.mytravelmap.xyz/u/gg112445688203607613260), something I really enjoy doing.
+I'm from São Paulo, Brazil. Father of a [lovely princess](img/alice.png) (this picture should be outdated by now, you know how they grow fast, right?) and a [indefatigable purebred mutt](img/maia.png) (yeah, I'm a dog person). I'm a lucky guy because I married a flight attendant which gives me the opportunity not just to be with an amazing woman as to [travel A LOT](https://www.mytravelmap.xyz/u/gg112445688203607613260), something I really enjoy doing.
 
 I'm an (VERY) extroverted person. Sometimes I start a small talk just because. It helps me recharge my batteries. I'll promise try not to do it if I note it bothers you. But do know that I really like to hear all kinds of stories and I'm always open to a good talk.
 
