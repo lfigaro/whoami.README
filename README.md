@@ -23,7 +23,7 @@ Some of my quirks while working:
 - A common question you will hear from me is "What problem are we solving by doing that?".
 - I navigate very well in uncertainty. I analyse the data in hand and take decisions without waiting too much.
 - Although I'm a process oriented guy, I hate unnecessary bureaucracy. The simpler, the better.
-- I really want people to be autonomous. If you know you are able to make a decision without involving me, make it!
+- I really want people to be autonomous. If you know you are able to make a decision without consulting me, make it!
 - Although I'm brazilian, there's one quirk in our culture that I don't relate to: Punctuality. I take it very seriously and respect everyone's time.
 
 
