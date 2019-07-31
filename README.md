@@ -26,5 +26,10 @@ Some of my quirks while working:
 - I really want people to be autonomous. If you know you are able to make a decision without consulting me, make it!
 - Although I'm brazilian, there's one quirk in our culture that I don't relate to: Punctuality. I'm always on time and I tend not to wait much for delayed people.
 
-
 If you’re curious about my professional experience please visit my [LinkedIn profile](https://www.linkedin.com/in/lfigaro).
+
+
+# My mission
+
+I want to help people related to me be their best version and be my own in the way :-)
+
