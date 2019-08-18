@@ -13,7 +13,7 @@ Focusing to improve that and having been inspired by several documents/posts on 
 
 # Hi, I'm Figaro 
 
-I'm from São Paulo. Father of a [lovely princess](img/alice.png) (this picture should be outdated by now, you know how they grow fast, right?) and a [indefatigable purebred mutt](img/maia.png) (yeah, I'm a dog person). I'm a lucky guy because I married a flight attendant which gives me the opportunity not just to be with an amazing woman as to [travel A LOT](https://www.mytravelmap.xyz/u/gg112445688203607613260), something I really enjoy doing.
+I'm from São Paulo, Brazil. Father of a [lovely princess](img/alice.png) (this picture should be outdated by now, you know how they grow fast, right?) and a [indefatigable purebred mutt](img/maia.png) (yeah, I'm a dog person). I'm a lucky guy because I married a flight attendant which gives me the opportunity not just to be with an amazing woman as to [travel A LOT](https://www.mytravelmap.xyz/u/gg112445688203607613260), something I really enjoy doing.
 
 I'm an (VERY) extroverted person. Sometimes I start a small talk just because. It helps me recharge my batteries. I'll promise try not to do it if I note it bothers you. But do know that I really like to hear all kinds of stories and I'm always open to a good talk.
 
@@ -23,8 +23,13 @@ Some of my quirks while working:
 - A common question you will hear from me is "What problem are we solving by doing that?".
 - I navigate very well in uncertainty. I analyse the data in hand and take decisions without waiting too much.
 - Although I'm a process oriented guy, I hate unnecessary bureaucracy. The simpler, the better.
-- I really want people to be autonomous. If you know you are able to make a decision without involving me, make it!
-- Although I'm brazilian, there's one quirk in our culture that I don't relate to: Punctuality. I take it very seriously and respect everyone's time.
-
+- I really want people to be autonomous. If you know you are able to make a decision without consulting me, make it!
+- Although I'm brazilian, there's one quirk in our culture that I don't relate to: Punctuality. I'm always on time and I tend not to wait much for delayed people.
 
 If you’re curious about my professional experience please visit my [LinkedIn profile](https://www.linkedin.com/in/lfigaro).
+
+
+# My mission
+
+I want to help people related to me be their best version and be my own in the way :-)
+
