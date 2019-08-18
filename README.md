@@ -21,15 +21,27 @@ Some of my quirks while working:
 - I'm always in a good mood. Please do not confuse it with being complacent.
 - I have high expectations on people as well as on myself.
 - A common question you will hear from me is "What problem are we solving by doing that?".
-- I navigate very well in uncertainty. I analyse the data in hand and take decisions without waiting too much.
+- I am very comfortable with ambiguity and living in the gray zone where there is potentially a better idea just around the corner. This can be annoying to people who want to nail down specifics or who want to commit to plans and then not change them.
 - Although I'm a process oriented guy, I hate unnecessary bureaucracy. The simpler, the better.
 - I really want people to be autonomous. If you know you are able to make a decision without consulting me, make it!
 - Although I'm brazilian, there's one quirk in our culture that I don't relate to: Punctuality. I'm always on time and I tend not to wait much for delayed people.
 
-If you’re curious about my professional experience please visit my [LinkedIn profile](https://www.linkedin.com/in/lfigaro).
-
+If you’re curious about my professional experience please visit my [LinkedIn profile](https://www.linkedin.com/in/lfigaro). And if you're curious about how I code, try out my [Github](http://github.com/lfigaro/whoami.README), just don't be judgy since I'm REALLY an outdated developer :-)
 
 # My mission
 
 I want to help people related to me be their best version and be my own in the way :-)
+
+
+# How I work
+
+## Communication
+
+I work very well with async communication but for more urgent matters, I prefer face to face. The perfect hierarchy of communication for me should be (most → least urgent): Face 2 face → Call → Whatsapp → Slack → Email. 
+
+I don't need acknowledgement on written communications as I'll not provide that. I'll trust you're up to something when I send an email / whatsapp / slack (let's face it, there's no need to confirm email receive nowadays)
+
+Although I'm a talker I tend to be straight and concise when asking for something. My experience shows me that I'm more clear by doing that.
+
+
 
